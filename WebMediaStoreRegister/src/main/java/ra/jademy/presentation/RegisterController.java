@@ -63,5 +63,3 @@ public class RegisterController {
 		return "resetPassword";
 	}
 }
-
-
